@@ -2,14 +2,14 @@
 "name": "renderai",
 "version": "1.0.0",
 "description": "Description of your project",
-"main": "index.js", // Main entry point of your application
+"main": "index.js",  
 "scripts": {
-"start": "node index.js", // Command to run your application
+"start": "node index.js",  
 "test": "echo "Error: no test specified" && exit 1"
 },
 "author": " PAblo <[email address removed]>",
-"license": "ISC", // License under which your project is distributed
+"license": "ISC",  
 "dependencies": {
-"express": "^4.18.2" // Dependency on the Express web framework
+"express": "^4.18.2"  
 }
 }
